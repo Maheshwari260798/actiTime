@@ -8,3 +8,4 @@ driver.findelementBy.partialLinktext
 driver.findelementBy.classname
 driver.findelementBy.CssSelector
 driver.findelementBy.xPath
+driver.manage().window().maximize();

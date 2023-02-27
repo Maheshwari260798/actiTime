@@ -1,0 +1,8 @@
+driver.findelementBy.id
+driver.findelementBy.name
+driver.findelementBy.tagname
+driver.findelementBy.linkText
+driver.findelementBy.partialLinktext
+driver.findelementBy.classname
+driver.findelementBy.CssSelector
+driver.findelementBy.xPath
